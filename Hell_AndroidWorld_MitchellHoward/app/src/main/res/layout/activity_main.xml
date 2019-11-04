@@ -12,6 +12,7 @@ defining its constraints and dimensions.
     android:layout_height="match_parent"
     tools:context=".MainActivity">
     <!-- this is my github comment-->
+    <!--this is a second github comment, hello-->
     <!--I made the top margin 32 instead of 0 (line 19) and added the hello string
     I added to the strings file(line 20)-->
     <TextView
