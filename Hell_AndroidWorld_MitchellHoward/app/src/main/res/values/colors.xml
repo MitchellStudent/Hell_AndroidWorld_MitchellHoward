@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--this is the colors resource file,
+    essentially, this file defines the specific color values
+    of colors which will be referenced by the styles.xml file.
+-->
+<resources>
+    <!--I changed the name and value of the second color below to instead say color purple and
+     to contain a value corresponding to the color purple. For this to work I also had to modify
+     the styles file to reference the new name 'colorPurple'.
+      I also modified the other two values, lines 11, 12, and 13-->
+    <color name="colorPrimary">#003917</color>
+    <color name="colorPurple">#D81B</color>
+    <color name="colorAccent">#D89B60</color>
+</resources>

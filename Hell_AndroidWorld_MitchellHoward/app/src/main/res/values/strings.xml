@@ -1,0 +1,10 @@
+<!--This is the strings resource file
+    this contains the strings that will be referenced by the activity layout.
+-->
+<resources>
+    <!--I modified the app name string to instead say hello user as the title of the app
+    I also added another string, so that the app displays 'hello world, this is mitchell howard'
+    For this new string I had to modify the layout file to include it. lines 8 and 9-->
+    <string name="app_name">Hello User</string>
+    <string name="hello">Hello World, This is Mitchell Howard</string>
+</resources>

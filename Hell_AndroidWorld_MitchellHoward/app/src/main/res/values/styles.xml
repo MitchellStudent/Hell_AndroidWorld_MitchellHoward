@@ -1,0 +1,16 @@
+<resources>
+    <!-- This file contains the style resources.
+    essentially, this file defines what colors will be used
+    by selecting a theme and referencing colors within the colors.xml file.
+    -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--I had to modify the colorprimarydark line below in order
+         to reference my newly named 'colorPurple', line 12-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPurple</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
